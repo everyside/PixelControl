@@ -1,0 +1,8 @@
+[submodule "ScreenCapturer"]
+	path = ScreenCapturer
+	url = git@github.com:everyside/ScreenCapturer.git
+	branch = master
+[submodule "OPC-LED-Controller"]
+	path = OPC-LED-Controller
+	url = git@github.com:flexion-unity/OPC-LED-Controller.git
+	branch = master
